@@ -12,3 +12,5 @@ test http way's difference.
 共通ssh试试
 
 再用windows push一次试试
+
+再用wsl试试
