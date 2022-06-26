@@ -16,3 +16,5 @@ test http way's difference.
 再用wsl试试
 
 删了共享的ssh试试
+
+换过来试试
