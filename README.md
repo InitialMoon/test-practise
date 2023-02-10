@@ -1,7 +1,7 @@
 # test-practise
-none
+1. none
 
-download finished
+2. download finished
 
 test http way's difference.
 
@@ -21,4 +21,5 @@ test http way's difference.
 
 test the diff
 
-comment2
+*comment2*
+
