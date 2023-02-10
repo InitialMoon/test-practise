@@ -1,3 +1,5 @@
+*.exe
+*.[ao]
+*.vscode/
+*.pdf
 *.swp
-.vscode/
-.exe
